@@ -2,26 +2,23 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Esther Adenuga | Computational Linguist # the website title (if blank, full name will be used instead)
+title: Esther Adenuga | Computational Linguist
 first_name: Esther
 middle_name:
 last_name: Adenuga
 email: eadenuga004@stu.edu.ui.ng
 description: Esther Adenuga | NLP Research Fellow | African Research Collective
-footer_text: Powered by Jekyll with al-folio theme. # Computational Linguist In-Training #>
+footer_text: Powered by Jekyll with al-folio theme.
 
-
-icon: ⚆ # the emoji used as the favicon
-url:  # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+icon: ⚆
+url: "https://adeleyi.github.io"   # base hostname & protocol
+baseurl: ""                        # keep empty for user site (adeleyi.github.io)
+last_updated: true
+impressum_path:
 
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
-# will use title and url fields
-# Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -29,61 +26,51 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 
 navbar_fixed: true
 footer_fixed: true
-
-# Dimensions
 max_width: 800px
-
-# TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
 # Open Graph
 # -----------------------------------------------------------------------------
-# Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+
+serve_og_meta: false
+og_image:
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: adeleyi # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: theadeleyi # your Twitter handle
-linkedin_username: esther-adenuga- # your LinkedIn user name
-#scholar_userid:  # your Google Scholar ID
-#semantic_scholar_userid: Hongli-Zhan/2188735751/
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-#work_url:  # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
+github_username: adeleyi
+twitter_username: theadeleyi
+linkedin_username: esther-adenuga-
+#scholar_userid:
+#semantic_scholar_userid:
+orcid_id:
+medium_username:
+quora_username:
+publons_id:
+research_gate_profile:
+blogger_url:
+keybase_username:
+wikidata_id:
+dblp_url:
 
 contact_note: >
 
-
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+google_analytics: UA-XXXXXXXXX
+panelbear_analytics: XXXXXXXXX
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: CV  # your blog must have a name for it to show up in the nav bar
+blog_name: CV
 blog_description:
 permalink: /CV/
 
-# Pagination
 pagination:
   enabled: true
 
-# Comments
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+disqus_shortname: al-folio
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -99,17 +86,16 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+news_scrollable: false
 news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
-# Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
-highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme: github
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -120,7 +106,6 @@ kramdown:
       line_numbers: false
       start_line: 1
 
-# Includes & excludes
 include: ['_pages']
 exclude:
   - bin
@@ -132,7 +117,6 @@ keep_files:
   - .nojekyll
   - .git
 
-# Plug-ins
 plugins:
   - jekyll-email-protect
   - jekyll-github-metadata
@@ -143,7 +127,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-# Extras
 github: [metadata]
 
 # -----------------------------------------------------------------------------
@@ -151,46 +134,35 @@ github: [metadata]
 # -----------------------------------------------------------------------------
 
 scholar:
-
-  last_name: Esther
-  first_name: [Hongli, H.]
+  last_name: Adenuga
+  first_name: [Esther]
 
   style: apa
   locale: en
-
   source: /_bibliography/
   bibliography: [papers.bib, patents.bib]
   bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
-
   replace_strings: true
   join_strings: true
-
   details_dir: bibliography
   details_layout: bibtex.html
   details_link: Details
-
   query: "@*"
 
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true  # enables google analytics
-enable_panelbear_analytics: false  # enables panelbear analytics
-enable_mansory:             true   # enables automatic project cards arangement
-enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
-                                   # for each section titles on pages and posts
-enable_darkmode:            false   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
-                                   # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
-                                   # multiple categories
-enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+enable_google_analytics:    true
+enable_panelbear_analytics: false
+enable_mansory:             true
+enable_math:                true
+enable_tooltips:            false
+enable_darkmode:            false
+enable_navbar_social:       false
+enable_project_categories:  true
+enable_medium_zoom:         true
 
 # -----------------------------------------------------------------------------
 # Library versions
