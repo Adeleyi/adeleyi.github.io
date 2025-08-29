@@ -2,14 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hongli Zhan | Ph.D. Candidate, Computational Linguistics # the website title (if blank, full name will be used instead)
-first_name: Hongli
+title: Esther Adenuga | Computational Linguist # the website title (if blank, full name will be used instead)
+first_name: Esther
 middle_name:
-last_name: Zhan
-chinese_name: 詹弘立
-email: HongliZhan@utexas.edu
-description: Hongli Zhan | Ph.D. Candidate in Computational Linguistics | UT Austin
-footer_text: Powered by Jekyll with al-folio theme. # Computational Linguist In-Training, Cellist Since 4-Years-Old. #>
+last_name: Adenuga
+email: eadenuga004@stu.edu.ui.ng
+description: Esther Adenuga | NLP Research Fellow | African Research Collective
+footer_text: Powered by Jekyll with al-folio theme. # Computational Linguist In-Training #>
 
 
 icon: ⚆ # the emoji used as the favicon
@@ -47,11 +46,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: honglizhan # your GitHub user name
+github_username: adeleyi # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: HongliZhan # your Twitter handle
-linkedin_username: hongli-zhan-761291198 # your LinkedIn user name
-scholar_userid: _EAk1jUAAAAJ # your Google Scholar ID
+twitter_username: theadeleyi # your Twitter handle
+linkedin_username: esther-adenuga- # your LinkedIn user name
+#scholar_userid:  # your Google Scholar ID
 #semantic_scholar_userid: Hongli-Zhan/2188735751/
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -59,7 +58,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-#work_url: https://liberalarts.utexas.edu/linguistics/gradstudents/hz6974 # work page URL
+#work_url:  # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -153,7 +152,7 @@ github: [metadata]
 
 scholar:
 
-  last_name: Zhan
+  last_name: Esther
   first_name: [Hongli, H.]
 
   style: apa
