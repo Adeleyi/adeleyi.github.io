@@ -6,7 +6,7 @@ description: Computational Linguist | NLP Research Fellow
 
 profile:
   align: right
-  image: 
+  image: assets/img/Esther (1).jpg
   address: >
     <p>Office: RLP 4.108</p>
 
