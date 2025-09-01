@@ -7,8 +7,6 @@ description: Computational Linguist | NLP Research Fellow
 profile:
   align: right
   image: Esther (1).jpg
-  address: >
-    <p>Office: RLP 4.108</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 news: true # includes a list of news items
@@ -48,36 +46,3 @@ Hi, I'm Esther, a NLP Research Fellow at <a href="https://blog.taresco.org/">The
 
 
 <br/>
-
-<!-- Industry Experience 
-<div class="education">
-  <h2>Industry Experience</h2>
-
-  <!-- Summer 2025 @IBM Research -->
-  <div class="experience-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:80px; height:auto; margin-right:20px;">
-    <div>
-      <strong>Research Scientist Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Summer 2025
-      <br>
-      IBM Thomas J. Watson Research Center, Yorktown Heights, NY
-      <br>
-      &#8259; Manager: Dr. <a href="https://www.linkedin.com/in/raya-horesh/">Raya Horesh</a>; Mentors: Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a> & Dr. <a href="https://sites.google.com/site/pinyuchenpage/home">Pin-Yu Chen</a>
-    </div>
-  </div>
-
-  <!-- Summer 2024 @IBM Research -->
-  <div class="experience-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:80px; height:auto; margin-right:20px;">
-    <div>
-      <strong>Research Scientist Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Summer 2024
-      <br>
-      IBM Thomas J. Watson Research Center, Yorktown Heights, NY
-      <br>
-      &#8259; Manager: Dr. <a href="https://www.linkedin.com/in/raya-horesh/">Raya Horesh</a>; Mentors: Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a> & Dr. <a href="https://moonfolk.github.io/">Mikhail Yurochkin</a>
-      <br>
-      &#8259; Work resulted in a first-authored paper at <a href="https://icml.cc/virtual/2025/poster/44235">ICML 2025</a> & a first-authored U.S. patent, and contributed to IBM's <a href="https://www.ibm.com/granite/docs/models/guardian/">Granite Guardian</a> models
-    </div>
-  </div>
-
-</div>
--->
