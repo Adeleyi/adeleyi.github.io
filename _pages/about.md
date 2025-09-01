@@ -8,7 +8,7 @@ profile:
   align: right
   image: Esther (1).jpg
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 news: true # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
@@ -29,7 +29,19 @@ nav_order: 1
   }
 </style>
 
-Hi, I'm Esther, a NLP Research Fellow at <a href="https://blog.taresco.org/">The African Research Collective</a>, where I work and contribute to NLP research and projects that advance technology for African languages.
+Hi, I'm Esther, an NLP Research Fellow at [The African Research Collective](https://blog.taresco.org/), where I contribute to research and projects that advance technology for African languages.
+
+I’m still early in my journey, so I keep an open mind, but here are some research questions I often come back to:
+
+- How can we design NLP systems that truly account for linguistic structures and meanings, given that every language works differently?
+- For languages with little or no digital presence, what strategies make sense for building datasets and tools?
+  
+- How can NLP efforts double as a way to document and preserve these languages for the future?
+  
+- Even when the technology works, how do we address biases that inevitably creep in?
+  
+- How can we ensure the systems we build actually serve the communities that need them most?
+
 
 <!-- Education -->
 <div class="education">
