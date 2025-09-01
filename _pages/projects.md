@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Media Coverage
-permalink: /media_coverage/
-description: Recent media coverage of my research.
-nav: false
+title: Projects
+permalink: /projects/
+description: 
+nav: true
 display_categories: [Interviews, Research]
 horizontal: false
 ---
