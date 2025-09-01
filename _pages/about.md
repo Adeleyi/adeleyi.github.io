@@ -6,7 +6,7 @@ description: Computational Linguist | NLP Research Fellow
 
 profile:
   align: right
-  image: assets/img/Esther (1).jpg
+  image: Esther (1).jpg
   address: >
     <p>Office: RLP 4.108</p>
 
@@ -37,7 +37,7 @@ Hi, I'm Esther, a NLP Research Fellow at <a href="https://blog.taresco.org/">The
 <div class="education">
   <h2>Education</h2>
   <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/1/1c/University_of_Ibadan_logo.png" alt="University of Ibadan Logo" style="width:80px; height:auto; margin-right:20px;">
+    <img src="/assets/img/ui logo.jpeg" alt="University of Ibadan Logo" style="width:80px; height:auto; margin-right:20px;">
     <div>
       <strong>B.A. in Linguistics / French</strong>, 2018 – 2023
       <br>
