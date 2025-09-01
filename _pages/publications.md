@@ -5,7 +5,7 @@ title: Publications
 description:
 years: [2025, 2024, 2023, 2022]
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 *\* Denotes equal contributions.*
 
