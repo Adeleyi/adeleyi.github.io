@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Diaries
-permalink: /Hongli_Diaries/
-description: Diaries
-nav: false
+title: Blog
+permalink: /Blog/
+description: 
+nav: true
 horizontal: false
 ---
