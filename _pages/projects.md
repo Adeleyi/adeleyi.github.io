@@ -6,6 +6,7 @@ description:
 nav: true
 display_categories: [Interviews, Research]
 horizontal: false
+nav_order: 3
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
