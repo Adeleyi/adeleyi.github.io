@@ -7,17 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-## Research Questions
-I’m still early in my journey, so I keep an open mind, but here are some research questions I often come back to:
+## Research Interests
 
-* How can we design NLP systems that truly account for linguistic structures and meanings, given that every language works differently?
-* For languages with little or no digital presence, what strategies make sense for building datasets and tools?
-* How can NLP efforts double as a way to document and preserve these languages for the future?
-* Even when the technology works, how do we address biases that inevitably creep in?
-* How can we ensure the systems we build actually serve the communities that need them most?
-
-
+I’m primarily interested in computational semantics and pragmatics, and multilingual NLP. Some questions I find particularly interesting right now:
+* How can models understand sarcasm, humour, or irony, especially in African languages, where context and culture shape meaning?  
+* And in what ways can semantic and pragmatic knowledge improve commonsense reasoning in AI models?
+  
 ## Publications
-
+* 
 
 
