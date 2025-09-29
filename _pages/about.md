@@ -8,6 +8,7 @@ profile:
   align: right
   image: Esther (1).jpg
 
+social: True
 news: true # includes a list of news items
 nav_order: 1
 ---
