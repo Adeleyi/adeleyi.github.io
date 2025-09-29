@@ -3,7 +3,7 @@ layout: page
 title: Resources
 Description: 
 nav_order: 4
-nav: False
+nav: True
 permalink: /resources
 
 ---
