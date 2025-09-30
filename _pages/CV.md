@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /assets/pdf/CV.pdf
+permalink: /assets/pdf/Esther_Adenuga_CV.pdf
 description: CV
 nav: true
 horizontal: false
