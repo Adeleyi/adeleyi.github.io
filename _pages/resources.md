@@ -8,7 +8,9 @@ permalink: /resources
 
 ---
 
-## Blog
+## Blog Posts
+*  [Is Perfection a Bias? Thoughts From a Linguist](https://medium.com/@adeleyi/is-perfection-a-bias-thoughts-from-a-linguist-5f9c0be0ed90)
 
-## Toolbox
+%## ToolBox
+
 
