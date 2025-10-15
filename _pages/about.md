@@ -6,10 +6,10 @@ description: Computational Linguist | NLP Research Fellow
 
 profile:
   align: right
-  image: esther_prof_pic.jpg
+  image: prof_pic_new.jpg
 
 social: True
-news: False # includes a list of news items
+news: True # includes a list of news items
 nav_order: 1
 ---
 
