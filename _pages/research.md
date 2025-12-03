@@ -13,10 +13,13 @@ I’m primarily interested in computational semantics and pragmatics, and multil
   
 ## Publications
 
-* **Esther Adenuga**, Akintunde Oladipo, Odunayo Ogundepo, Ismail Daud, Deborah Popoola, Adeyemi Praise, Okechukwu God'spraise, Olasoji Akindejoye, Abolade Daud, Rapheal Afolayan, Sharon Ibejih, Cynthia Amol (2025). **Physical Commonsense Reasoning For West African Languages**. In *Proceedings of the 5th Workshop on Multi-lingual Representation Learning (MRL) (Accepted; to appear)*
+* Tyler A. Chang, Catherine Arnett., et al. (2025).[Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures](https://arxiv.org/abs/2510.24081)*(One of 335 co-authors)*
+    
 
 * Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, **Esther Adenuga**, David Ifeoluwa Adelani and Jimmy Lin (2025).[Improving Multilingual Math Reasoning for African Languages](https://arxiv.org/abs/2505.19848)*(preprint)*.
 
+
+## Projects
 
 
 
