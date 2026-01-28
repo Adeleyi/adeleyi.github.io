@@ -18,7 +18,7 @@ My name is Esther Adenuga. I'm an NLP Research Fellow at [**The African Research
 
 I’m interested in how computers understand meaning and context in natural language, and how this knowledge can be applied to create linguistically informed and safe tools for low-resource and multilingual settings.
 
-Outside of research, I work as an ESL tutor, run a reading community for teenagers, take photos of nature, get lost in thriller novels, and, once in a while, cheer (or suffer🙂) as a loyal [Chelsea](https://www.chelseafc.com/en) fan.
+Outside of research, I work as an ESL tutor, run a reading community for teenagers, take photos of nature, get lost in thriller novevls, and, once in a while, cheer (or suffer🙂) as a loyal [Chelsea](https://www.chelseafc.com/en) fan.
 
 
 
