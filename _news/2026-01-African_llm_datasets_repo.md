@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-06-17
+date: 2026-01-23
 inline: true
 ---
 
-🎉Graduated with a B.A. (Double Honors) in Linguistics and French from the <a href="https://ui.edu.ng">University of Ibadan.<a> 
+🌍Worked on **[African LLM Datasets](https://github.com/The-African-Research-Collective/african-llm-datasets)** — a great starting point for anyone building LLMs for African languages.
+
