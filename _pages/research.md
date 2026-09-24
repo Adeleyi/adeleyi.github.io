@@ -26,7 +26,7 @@ I’m primarily interested in computational semantics and pragmatics, multilingu
 
 ## Projects
 
-* [Àmì — Yorùbá Tone Game](https://github.com/Adeleyi/ami-yoruba-game): a free browser game that helps learners master Yorùbá tone and vowel quality through minimal-pair exercises, built with native-speaker audio and community-reviewed content.
+* [Àmì — Yorùbá Tone Game](https://github.com/Adeleyi/ami-yoruba-game): a free browser game that helps learners master Yorùbá tone and vowel quality through minimal-pair exercises, with community-reviewed content.
 
 
 
