@@ -62,14 +62,14 @@ panelbear_analytics: XXXXXXXXX
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: CV
+blog_name: Blog
 blog_description:
-permalink: /CV/
+permalink: /blog/
 
 pagination:
   enabled: true
 
-disqus_shortname: al-folio
+disqus_shortname:
 
 # -----------------------------------------------------------------------------
 # Collections
